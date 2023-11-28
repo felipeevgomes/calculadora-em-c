@@ -1,6 +1,6 @@
 # CALCULADORA EM C
  Repositório do trabalho da faculdade em linguagem c.
- 
+ ---
  **DESCRIÇÃO DO TRABALHO:**
 
  Implemente uma calculadora para valores inteiros, ou seja, que aceite e
@@ -49,12 +49,12 @@ número inteiro informado.
    **A implementação DEVE conter alguns conceitos que foram estudados na
 disciplina, como:**
 
-● estruturas condicionais;
+1. estruturas condicionais;
 
-● estruturas de repetição;
+1. estruturas de repetição;
 
-● funções;
+1. funções;
 
-● biblioteca;
+1. biblioteca;
 
-● documentação.
+1. documentação.
